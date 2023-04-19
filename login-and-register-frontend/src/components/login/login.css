@@ -14,7 +14,7 @@
     border-radius: 8px;
     border: 2px solid #dddfe2;
     outline: none;
-    color: #1d2129;
+    color: #d705ef;
     margin: 0.5rem 0;
     padding: 0.5rem 0.75rem;
     width: 92%;
@@ -22,8 +22,8 @@
 }
 
 .login > .button {
-    background: #1877f2;
-    border: 1px solid #1877f2;
+    background: #d705ef;
+    border: 1px solid #d705ef;
     color: #fff;
     font-size: 1.25rem;
     padding: 0.5rem;
